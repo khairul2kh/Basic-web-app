@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-Hello world
+Angular JS Project
 </body>
 </html>
